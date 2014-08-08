@@ -17,36 +17,28 @@ body {
   margin: 0;
 }
 
-#a {
-  height: 50px;
-  background-color: #fdf2b9;
-}
-
-#b {
-  height: 50px;
-  background-color: #f6cc7b;
-}
-
-#c {
-  height: 50px;
-  background-color: #535d69;
-  color: #fdf2b9;
-  font-family: HelveticaNeue-UltraLight;
-  font-size: 2.8em;
-  letter-spacing: .07em;
+header {
+  height: 250px;
+  background-image: linear-gradient(to bottom, #fdf2bc, #fdf2bc 20%, #f6cc7b 20%, #f6cc7b 40%, #535d69 40%, #535d69 60%, #678fa5 60%, #678fa5 80%, #cb544c 80%);
+  color: #fdf2bc;
+  font-family: HelveticaNeue-UltraLight, Helvetica Neue, Helvetica, sans-serif;
+  font-size: 2.7em;
+  letter-spacing: 0.05em;
+  line-height: 250px;
   text-align: center;
-}
-
-#d {
-  height: 50px;
-  background-color: #678fa5;
-}
-
-#e {
-  height: 50px;
-  background-color: #cb544c;
 }
 
 h1 {
   display: none;
+}
+
+footer {
+  display: block;
+  margin: 25px auto;
+  width: 20px;
+  height: 15px;
+  background-image: url(/images/pow.png);
+  background-repeat: no-repeat;
+  background-size: 20px 15px;
+  text-indent: -9999px;
 }
