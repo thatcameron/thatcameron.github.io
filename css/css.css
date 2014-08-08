@@ -1,0 +1,14 @@
+/*
+Morning Pulp
+Version 0.1
+*/
+
+html {
+  overflow-y: scroll;
+  text-rendering: optimizeLegibility;
+  -webkit-text-size-adjust: none;
+  margin: 20px;
+  background: #fdf2bc;
+  color: #535d69;
+  font-family: Helvetica Neue;
+}
