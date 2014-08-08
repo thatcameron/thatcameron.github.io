@@ -7,11 +7,45 @@ html {
   overflow-y: scroll;
   text-rendering: optimizeLegibility;
   -webkit-text-size-adjust: none;
-  margin: 20px;
+  margin: 0;
   background: #fdf2bc;
   color: #535d69;
   font-family: Helvetica Neue, Helvetica, sans-serif;
-}  
+}
+
+body {
+  margin: 0;
+}
+
+#a {
+  height: 50px;
+  background-color: #fdf2b9;
+}
+
+#b {
+  height: 50px;
+  background-color: #f6cc7b;
+}
+
+#c {
+  height: 50px;
+  background-color: #535d69;
+  color: #fdf2b9;
+  font-family: HelveticaNeue-UltraLight;
+  font-size: 2.8em;
+  letter-spacing: .07em;
+  text-align: center;
+}
+
+#d {
+  height: 50px;
+  background-color: #678fa5;
+}
+
+#e {
+  height: 50px;
+  background-color: #cb544c;
+}
 
 h1 {
   display: none;
