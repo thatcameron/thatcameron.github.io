@@ -10,7 +10,7 @@ html {
   margin: 0;
   background: #fdf2bc;
   color: #535d69;
-  font-family: Helvetica Neue, Helvetica, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
 }
 
 body {
@@ -21,7 +21,7 @@ header {
   height: 250px;
   background-image: linear-gradient(to bottom, #fdf2bc, #fdf2bc 20%, #f6cc7b 20%, #f6cc7b 40%, #535d69 40%, #535d69 60%, #678fa5 60%, #678fa5 80%, #cb544c 80%);
   color: #fdf2bc;
-  font-family: HelveticaNeue-UltraLight, Helvetica Neue, Helvetica, sans-serif;
+  font-family: "HelveticaNeue-UltraLight", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 2.7em;
   letter-spacing: 0.05em;
   line-height: 250px;
